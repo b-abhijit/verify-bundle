@@ -1,0 +1,13 @@
+{
+  "name": "verify-bundle-service",
+  "version": "1.0.0",
+  "description": "Deterministic verifier for a model bundle + model card",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
